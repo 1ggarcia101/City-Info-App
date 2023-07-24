@@ -18,9 +18,15 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseRouting();
+
 app.UseAuthorization();
 
-app.MapControllers();
+//adds endpoints w/o specifying routes, we specify routes with attributes in CitiesController
+app.UseEndpoints(endpoints =>              
+{
+    endpoints.MapControllers();
+});
 
 //app.Run(async (context) =>
 //{
