@@ -23,7 +23,7 @@ namespace CityInfoAPI.Controllers
             var pathToFile = "5551470.jpg";
 
             if (!System.IO.File.Exists(pathToFile))
-            {
+            { 
                 return NotFound();
             }
 
