@@ -32,3 +32,5 @@ C:\Users\ggarcia\source\repos\City-Info-App\CityInfoAPI\CityInfoAPI\obj\Debug\ne
 C:\Users\ggarcia\source\repos\City-Info-App\CityInfoAPI\CityInfoAPI\obj\Debug\net7.0\CityInfoAPI.genruntimeconfig.cache
 C:\Users\ggarcia\source\repos\City-Info-App\CityInfoAPI\CityInfoAPI\obj\Debug\net7.0\ref\CityInfoAPI.dll
 C:\Users\ggarcia\source\repos\City-Info-App\CityInfoAPI\CityInfoAPI\bin\Debug\net7.0\5551470.jpg
+C:\Users\ggarcia\source\repos\City-Info-App\CityInfoAPI\CityInfoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ggarcia\source\repos\City-Info-App\CityInfoAPI\CityInfoAPI\bin\Debug\net7.0\Newtonsoft.Json.dll

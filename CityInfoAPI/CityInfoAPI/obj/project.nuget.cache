@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "W/Pn0aFGMQsheQwjNktdJvbO/+XN0F2ApiADYYw7dhn5Zmi14Lte5iLolrydgfb0dP6mPgiMbKMK/GKH9J3cwg==",
+  "dgSpecHash": "myzmm/LWBrVZe59bGrNyKmYQBq9V4QWxJdez3vt0QkrT2yATIEsUNW8v3vbr49QxVS3b6roa+WMPNpxh2ZchTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ggarcia\\source\\repos\\City-Info-App\\CityInfoAPI\\CityInfoAPI\\CityInfoAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ggarcia\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.9\\microsoft.aspnetcore.jsonpatch.7.0.9.nupkg.sha512",
     "C:\\Users\\ggarcia\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\ggarcia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ggarcia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ggarcia\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ggarcia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\ggarcia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\ggarcia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\ggarcia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
