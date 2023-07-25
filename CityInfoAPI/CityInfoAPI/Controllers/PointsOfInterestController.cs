@@ -9,7 +9,7 @@ namespace CityInfoAPI.Controllers
     public class PointsOfInterestController : ControllerBase
     {
         [HttpGet]
-        public ActionResult<IEnumerable<PointsOfInterestDto>> GetPointsOfInterest(int cityId)
+        public ActionResult<IEnumerable<PointOfInterestDto>> GetPointsOfInterest(int cityId)
         {
             var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
 
@@ -23,7 +23,7 @@ namespace CityInfoAPI.Controllers
 
         [HttpGet("{pointofinterestid}")]
 
-        public ActionResult<PointOfInterestDto> GetPointOfInterest(int cityId, int pointOfInterestId)
+        public ActionResult<PointOfInterestDto> GetPointsOfInterest(int cityId, int pointOfInterestId)
         {
             var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
             if (city == null)
@@ -37,6 +37,8 @@ namespace CityInfoAPI.Controllers
             {
                 return NotFound();
             }
+
+            return Ok(pointOfInterest);
         }
     }
 }
